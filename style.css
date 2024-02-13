@@ -93,7 +93,7 @@ h1 {
 		span {      
 			text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.5), 1px 1px 0px rgba(255,100,100,0.5);
         &:before {
-          content: 'Yes';
+          
         }
 		}
 	}
@@ -103,7 +103,7 @@ h1 {
 		span {
 			font-size: 14px;
         &:before {
-          content: 'oopsss';
+          
         }
 		}
 		&:before {
