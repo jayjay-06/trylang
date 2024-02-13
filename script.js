@@ -12,7 +12,7 @@ $(function () {
         $(".tricky").each(function () {
             setRandomPosition($(this));
         });
-    }, 500); // Change position every 3 seconds
+    }, 300); // Change position every 3 seconds
 
     // Hover event for elements with the class "btn-wrap"
     $(".btn-wrap").hover(function () {
