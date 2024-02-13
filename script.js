@@ -22,5 +22,5 @@ $('.tricky').bind('touchstart', function(){
 
 const button = document.getElementById('btnalert');
 button.addEventListener('click', function () {
-alert('you clicked me')
+alert('I feel Disappointed')
 });
