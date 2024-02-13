@@ -19,7 +19,8 @@ $('.tricky').bind('touchstart', function(){
     });
 })
 
-const button = document.getElementById('btnalert')
+
+const button = document.getElementById('btnalert');
 button.addEventListener('click', function () {
-alert('I feel dissappointed')
-})
+alert('you clicked me')
+});
